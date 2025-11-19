@@ -1,7 +1,9 @@
-npm i
+# Copy & Paste These Commands in Terminal
+---
 
-npm init
+### 🔹 **Backend Dependencies**
 
+```bash
 npm i express mongoose
 ```
 
