@@ -1,7 +1,3 @@
-npm i
-
-npm init
-
 npm i express mongoose
 
 npm i -D nodemon
