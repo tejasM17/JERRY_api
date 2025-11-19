@@ -1,6 +1,7 @@
-### 🔹 **Backend Dependencies**
+npm i
 
-```bash
+npm init
+
 npm i express mongoose
 ```
 
